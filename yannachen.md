@@ -2,6 +2,9 @@
 
 **Your Name:Yanna Chen**
 
+** VNC enabled**
+pi@chen1002:~ $ sudo raspi-config
+Created symlink /etc/systemd/system/multi-user.target.wants/wayvnc.service → /lib/systemd/system/wayvnc.service.
 
 **1.**
 ```
